@@ -1,0 +1,10 @@
+dist
+.next
+.insomnia
+.stats
+node_modules/
+package-lock.json
+*.js
+tmp
+__legacy__
+
